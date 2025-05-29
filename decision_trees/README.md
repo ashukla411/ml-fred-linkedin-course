@@ -1,0 +1,3 @@
+- Pre install Anaconda Navigator and Launch Jupyter Notebooks
+- 02 Folder is for Classification trees meaning categorical values
+- 03 Folder is for Regression trees meaning numerical values
